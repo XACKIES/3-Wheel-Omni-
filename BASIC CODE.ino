@@ -1,3 +1,7 @@
+// THIS IS BASIC CODE FOR 3 WHEEL OMNI
+//REF https://github.com/XACKIES/3-Wheel-Omni-/edit/main/BASIC%20CODE.c
+//BY  KITTIPHOP  PHANTHACHART
+
 #define PWM_A 3
 #define PWM_B 6
 #define PWM_C 5
